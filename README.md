@@ -7,6 +7,7 @@
 ###
 
 <p align="left">📚 I'm currently studying as a Frontend Developer, Fullstack Developer.</p>
+<p align="left">Language: English & Swedish.</p>
 
 ###
 
